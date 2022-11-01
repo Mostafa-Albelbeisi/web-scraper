@@ -18,6 +18,6 @@
 
 you have to put URL in the function and run it
 
-#### PR
+#### Pull requests
 
-[PR1](https://github.com/MohdHanoti/web-scraper/pull/1)
+[Pull requests](https://github.com/Mostafa-Albelbeisi/web-scraper/pulls)
